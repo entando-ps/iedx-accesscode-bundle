@@ -1,5 +1,5 @@
-code: accesscode-bundle
-description: This is the accesscode bundle
+code: iedx-bundle
+description: This is the I-EDX bundle
 
 components:
   plugins:
