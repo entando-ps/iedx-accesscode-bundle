@@ -1,13 +1,11 @@
-code: iedx-test-bundle
-description: This is the I-EDX bundle
+code: accesscode-bundle
+description: This is the accesscode bundle
 
 components:
   plugins:
     - plugins/accesscode-plugin.yaml
 
   widgets:
-    - ui/widgets/accesscode/tableWidget/accesscode-table-widget-descriptor.yaml
-    - ui/widgets/accesscode/detailsWidget/accesscode-details-widget-descriptor.yaml
-    - ui/widgets/accesscode/formWidget/accesscode-form-widget-descriptor.yaml
+    - ui/widgets/widget-dir/fe-react-app/iedx-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 

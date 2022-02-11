@@ -1,6 +1,0 @@
-code: accesscode-table-widget
-titles:
-  en: AccessCode Table Widget
-  it: AccessCode Table Widget
-group: free
-customUiPath: accesscode-table-widget.ftl

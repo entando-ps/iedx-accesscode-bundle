@@ -1,6 +1,0 @@
-code: accesscode-form-widget
-titles:
-  en: AccessCode Form Widget
-  it: AccessCode Form Widget
-group: free
-customUiPath: accesscode-form-widget.ftl

@@ -1,6 +1,0 @@
-code: accesscode-details-widget
-titles:
-  en: AccessCode Details Widget
-  it: AccessCode Details Widget
-group: free
-customUiPath: accesscode-details-widget.ftl
