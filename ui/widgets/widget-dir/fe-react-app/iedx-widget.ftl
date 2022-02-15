@@ -1,9 +1,9 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.1b6da691.js"></script>
-<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.1b6da691.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.1b6da691.js.map"></script>
-<link href="<@wp.resourceURL />accesscode-bundle/static/css/main.8ce3e11a.css" rel="stylesheet">
-<link href="<@wp.resourceURL />accesscode-bundle/static/css/main.8ce3e11a.css.map" rel="stylesheet">
+<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.c7d320aa.js"></script>
+<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.c7d320aa.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.c7d320aa.js.map"></script>
+<link href="<@wp.resourceURL />accesscode-bundle/static/css/main.2c8bb882.css" rel="stylesheet">
+<link href="<@wp.resourceURL />accesscode-bundle/static/css/main.2c8bb882.css.map" rel="stylesheet">
 <#-- entando_resource_injection_point -->
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
 
