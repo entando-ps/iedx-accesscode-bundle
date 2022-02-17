@@ -1,7 +1,7 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.c7d320aa.js"></script>
-<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.c7d320aa.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.c7d320aa.js.map"></script>
+<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.f4f061b0.js"></script>
+<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.f4f061b0.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />accesscode-bundle/static/js/main.f4f061b0.js.map"></script>
 <link href="<@wp.resourceURL />accesscode-bundle/static/css/main.2c8bb882.css" rel="stylesheet">
 <link href="<@wp.resourceURL />accesscode-bundle/static/css/main.2c8bb882.css.map" rel="stylesheet">
 <#-- entando_resource_injection_point -->
