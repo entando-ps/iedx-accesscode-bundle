@@ -1,4 +1,4 @@
-image: jangalian/accesscode:0.0.1-SNAPSHOT
+image: jangalian/accesscode:0.0.2-SNAPSHOT
 dbms: mysql
 healthCheckPath: "/management/health"
 roles:
