@@ -1,4 +1,4 @@
-image: entandopia/accesscode:0.0.22-SNAPSHOT
+image: entandopia/accesscode:0.0.23-SNAPSHOT
 dbms: mysql
 healthCheckPath: "/management/health"
 ingressPath: "/entandopia/accesscode/0-0-22-snapshot"
