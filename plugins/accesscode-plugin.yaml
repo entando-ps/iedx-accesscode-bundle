@@ -1,0 +1,8 @@
+image: entandopia/accesscode:0.0.22-SNAPSHOT
+dbms: mysql
+healthCheckPath: "/management/health"
+ingressPath: "/entandopia/accesscode/0-0-22-snapshot"
+roles:
+  - "accesscode-admin"
+  - "accesscode-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
